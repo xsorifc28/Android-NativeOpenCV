@@ -20,4 +20,4 @@ JNI. This project already includes the OpenCV Android Java library as a separate
     
   3. System environment variable `OPENCVROOT_ANDROID` pointing to the OPENCV Android Native Library. See [Android.mk](NativeOpenCV-310/app/src/main/jni/Android.mk) for example.
  
-I will try to keep this as up-to-date as possible. Currently, the project is using OpenCV 3.1.0
+I will try to keep this as up-to-date as possible. Currently, the project is using OpenCV 3.1.
