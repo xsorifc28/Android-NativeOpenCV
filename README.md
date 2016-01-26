@@ -15,6 +15,7 @@ JNI. This project already includes the OpenCV Android Java library as a seperate
   -Build tools version: 23.0.2
   
   2. OpenCV Android Native Library
+
       This can be installed from [here](http://sourceforge.net/projects/opencvlibrary/files/opencv-android/3.1.0/OpenCV-3.1.0-android-sdk.zip/download).
     
   3. System environment variable `OPENCVROOT_ANDROID` pointing to the OPENCV Android Native Library. See [Android.mk](NativeOpenCV-310/app/src/main/jni/Android.mk) for example.
