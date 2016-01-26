@@ -2,7 +2,7 @@
 ### Template project for running OpenCV 3.1.0 Native on Android.
 
 This template project will allow you to run native OpenCV code on Android devices via the 
-JNI. This project already includes the OpenCV Android Java library as a seperate module.
+JNI. This project already includes the OpenCV Android Java library as a separate module.
 
 ### Prerequisites:
  
